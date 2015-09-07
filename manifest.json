@@ -1,0 +1,18 @@
+{
+  "name": "Billynyh New Tab",
+  "description": "Customized world clock new tab page",
+  "version": "0.1",
+
+  "manifest_version": 2,
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": [
+    "tabs"
+  ],
+
+  "icons": {
+  },
+
+  "offline_enabled": true
+}
